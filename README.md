@@ -1,0 +1,2 @@
+# Book Cataloguing API
+self-made api to get some golang/api practice while also making my life easier cataloguing my personal library for when I inevitably need to figure out if I own the book or not and check if its in my designated to-read list
